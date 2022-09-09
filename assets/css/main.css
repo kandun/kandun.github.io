@@ -133,7 +133,6 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.75em;
 		margin-bottom: 1em;
-		text-transform: uppercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2367,7 +2366,7 @@ input, select, textarea {
 
 					#header nav ul li.submenu > a {
 						text-decoration: none;
-						color: gray;
+						color: #cac2b4;
 					}
 
 						#header nav ul li.submenu > a:before {
@@ -2398,7 +2397,7 @@ input, select, textarea {
 
 					#header nav ul li.current > a {
 						font-weight: 900;
-						color: gray;
+						color: #cac2b4;
 					}
 
 		#header.reveal {

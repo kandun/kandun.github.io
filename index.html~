@@ -160,7 +160,7 @@
 						<section class="wrapper style3 container special">
 
 							<header class="major">
-								<h2>一些照片</h2>
+					<!--			<h2>一些照片</h2> -->
 							</header>
 
 						<!--	<div class="row">-->
@@ -169,7 +169,7 @@
 									<section>
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="100" /></a>
 										<header>
-											<h3>Canyonlands</h3>
+											<h1>Canyonlands</h1>
 										</header>
 					
 									</section>
@@ -253,8 +253,7 @@
 
 					<header class="special container">
 						<span class="icon solid fa-envelope"></span>
-						<h2>Get In Touch</h2>
-						<p>Use the form below to give /dev/null a piece of your mind.</p>
+						<h2>联系我</h2>
 					</header>
 	 				<section class="wrapper style4 special container medium">
 

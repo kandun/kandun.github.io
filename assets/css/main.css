@@ -2367,6 +2367,7 @@ input, select, textarea {
 
 					#header nav ul li.submenu > a {
 						text-decoration: none;
+						color: gray;
 					}
 
 						#header nav ul li.submenu > a:before {
@@ -2397,6 +2398,7 @@ input, select, textarea {
 
 					#header nav ul li.current > a {
 						font-weight: 900;
+						color: gray;
 					}
 
 		#header.reveal {

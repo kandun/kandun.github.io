@@ -2367,6 +2367,7 @@ input, select, textarea {
 
 					#header nav ul li.submenu > a {
 						text-decoration: none;
+						color: inherit;
 					}
 
 						#header nav ul li.submenu > a:before {
@@ -2397,6 +2398,7 @@ input, select, textarea {
 
 					#header nav ul li.current > a {
 						font-weight: 900;
+						color: inherit;
 					}
 
 		#header.reveal {
@@ -3193,6 +3195,8 @@ input, select, textarea {
 
 			footer.major {
 				padding-top: 0;
+				 margin-left:auto;
+    margin-right:auto;
 			}
 
 		/* Icon */

@@ -133,6 +133,10 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1.75em;
 		margin-bottom: 1em;
+<<<<<<< HEAD
+=======
+		text-transform: uppercase;
+>>>>>>> 2fdcbd80ac2f1c4ac49c625d41c52880261d1a4a
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2366,7 +2370,10 @@ input, select, textarea {
 
 					#header nav ul li.submenu > a {
 						text-decoration: none;
+<<<<<<< HEAD
 						color: #cac2b4;
+=======
+>>>>>>> 2fdcbd80ac2f1c4ac49c625d41c52880261d1a4a
 					}
 
 						#header nav ul li.submenu > a:before {
@@ -2397,7 +2404,10 @@ input, select, textarea {
 
 					#header nav ul li.current > a {
 						font-weight: 900;
+<<<<<<< HEAD
 						color: #cac2b4;
+=======
+>>>>>>> 2fdcbd80ac2f1c4ac49c625d41c52880261d1a4a
 					}
 
 		#header.reveal {
@@ -3194,8 +3204,11 @@ input, select, textarea {
 
 			footer.major {
 				padding-top: 0;
+<<<<<<< HEAD
 				 margin-left:auto;
     margin-right:auto;
+=======
+>>>>>>> 2fdcbd80ac2f1c4ac49c625d41c52880261d1a4a
 			}
 
 		/* Icon */

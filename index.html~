@@ -160,7 +160,11 @@
 						<section class="wrapper style3 container special">
 
 							<header class="major">
+<<<<<<< HEAD
 					<!--			<h2>一些照片</h2> -->
+=======
+								<h2>一些照片</h2>
+>>>>>>> 2fdcbd80ac2f1c4ac49c625d41c52880261d1a4a
 							</header>
 
 						<!--	<div class="row">-->
@@ -169,7 +173,11 @@
 									<section>
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="100" /></a>
 										<header>
+<<<<<<< HEAD
 											<h1>Canyonlands</h1>
+=======
+											<h3>Canyonlands</h3>
+>>>>>>> 2fdcbd80ac2f1c4ac49c625d41c52880261d1a4a
 										</header>
 					
 									</section>
@@ -253,7 +261,12 @@
 
 					<header class="special container">
 						<span class="icon solid fa-envelope"></span>
+<<<<<<< HEAD
 						<h2>联系我</h2>
+=======
+						<h2>Get In Touch</h2>
+						<p>Use the form below to give /dev/null a piece of your mind.</p>
+>>>>>>> 2fdcbd80ac2f1c4ac49c625d41c52880261d1a4a
 					</header>
 	 				<section class="wrapper style4 special container medium">
 

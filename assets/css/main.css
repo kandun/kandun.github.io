@@ -2351,7 +2351,7 @@ input, select, textarea {
 
 					#header nav ul li a {
 						border: solid 1px transparent;
-						color: inherit;
+						color: #CAC2B4;
 						display: inline-block;
 						line-height: 1em;
 						padding: 0.6em 0.75em;
@@ -2370,11 +2370,8 @@ input, select, textarea {
 
 					#header nav ul li.submenu > a {
 						text-decoration: none;
-<<<<<<< HEAD
-						color: #cac2b4;
-=======
-						color: gray;
->>>>>>> 2fdcbd80ac2f1c4ac49c625d41c52880261d1a4a
+						color: #CAC2B4;
+
 					}
 
 						#header nav ul li.submenu > a:before {

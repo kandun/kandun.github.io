@@ -167,6 +167,19 @@
 							</header>
 
 						<!--	<div class="row">-->
+														<div class="col-6 col-12-narrower">
+
+									<section>
+
+										<a href="#" class="image featured"><img src="images/pic00.jpg" alt="" /></a>
+										<header>
+											<h3>Matier</h3>
+										</header>
+					 											<br>
+									</section>
+
+								</div>
+						
 								<div class="col-6 col-12-narrower">
 
 									<section>

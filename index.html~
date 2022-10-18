@@ -171,7 +171,7 @@
 
 									<section>
 
-										<a href="#" class="image featured"><img src="images/pic00.jepg" alt="" /></a>
+										<a href="#" class="image featured"><img src="images/pic00.jpeg" alt="" /></a>
 										<header>
 											<h3>Matier</h3>
 										</header>
@@ -182,6 +182,27 @@
 						
 								<div class="col-6 col-12-narrower">
 
+		<section>
+
+										<a href="#" class="image featured"><img src="images/swan.jpg" alt="" /></a>
+									
+					 											<br>
+									</section>
+
+								</div>
+								<div class="col-6 col-12-narrower">
+								
+								<section>
+
+										<a href="#" class="image featured"><img src="images/swan2.jpg" alt="" /></a>
+										<header>
+											<h3>Swan pass</h3>
+										</header>
+					 											<br>
+									</section>
+
+								</div>
+								<div class="col-6 col-12-narrower">
 									<section>
 
 										<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
@@ -205,7 +226,7 @@
 
 							</div>
 							<!--<div class="row"> -->
-								<div class="col-8 col-10-narrower">
+								<div class="col-6 col-12-narrower">
 
 									<section>
 										<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
@@ -226,8 +247,34 @@
 																				<br>
 									</section>
 								</div>
-							</div>
-		
+									<section>
+
+										<a href="#" class="image featured"><img src="images/tuolumne.jpg" alt="" /></a>
+										<header>
+											<h3>Tuolumne</h3>
+										</header>
+					 											<br>
+									</section>
+
+								</div>
+								<div class="col-6 col-12-narrower">
+								
+							
+										<section>
+
+										<a href="#" class="image featured"><img src="images/escalante.jpg" alt="" /></a>
+										<header>
+											<h3>Escalante</h3>
+										</header>
+					 											<br>
+									</section>
+
+									</div>
+								<div class="col-6 col-12-narrower">
+								</div>
+
+
+	
 					<!--		<footer class="major">
 								<ul class="buttons">
 									<li><a href="#" class="button">See More</a></li>

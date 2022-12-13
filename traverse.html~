@@ -26,9 +26,10 @@
 							<li class="submenu">
 								<a href="#">目录</a>
 								<ul>
-									<li><a href="left-sidebar.html">水</a></li>
-									<li><a href="right-sidebar.html">穿越</a></li>
-									<li><a href="no-sidebar.html">九十九年后</a></li>
+									<li><a href="water.html">水</a></li>
+									<li><a href="traverse.html">穿越</a></li>
+									<li><a href="99.html">九十九年后</a></li>
+									<li><a href="waiting.html">等待</a></li>
 									<li><a href="contact.html"></a></li>
 									<li class="submenu">
 								<!--		<a href="#">Submenu</a>

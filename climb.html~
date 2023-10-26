@@ -1,0 +1,199 @@
+<!DOCTYPE HTML>
+<!--
+	Twenty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+
+		<title>攀</title>
+
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="left-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+<header id="header" class="alt">
+				<!--	<h1 id="logo"><a href="index.html">砍钝</a></h1>-->
+					<nav id="nav">
+						<ul>
+							<li class="current"><a href="index.html">主页</a></li>
+							<li class="submenu">
+								<a href="#">目录</a>
+								<ul>
+									<li><a href="water.html">水</a></li>
+									<li><a href="traverse.html">穿越</a></li>
+									<li><a href="99.html">九十九年后</a></li>
+									<li><a href="waiting.html">等待</a></li>
+									<li><a href="ditch.html">沟壑</a></li>
+									<li><a href="climb.html">攀</a></li>
+									<li class="submenu">
+								<!--		<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Dolore Sed</a></li>
+											<li><a href="#">Consequat</a></li>
+											<li><a href="#">Lorem Magna</a></li>
+											<li><a href="#">Sed Magna</a></li>
+											<li><a href="#">Ipsum Nisl</a></li>
+										</ul>-->
+									</li>
+								</ul>
+							</li>
+						<!--	<li><a href="#" class="button primary">Sign Up</a></li> --> 
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main 
+				<article id="main">
+
+					<header class="special container">
+						<span class="icon solid fa-laptop"></span>
+						<h2>Behold the <strong>Left Sidebar</strong></h2>
+						<p>Where things on the left ... accompany that on the right.</p>
+					</header>
+
+					<!-- One -->
+						<section class="wrapper style4 container">
+
+<h4></h4>
+
+<h1>夹在石与骨之间
+<br>角质层渐失柔软
+<br>岩壁上，小心翼翼
+<br>偶尔的褶皱托举着
+<br>发烫的黑色胶底
+<br>指腹的圈圈涟漪
+<br>也被扰动</h1>
+
+<h1>系在绳上的
+<br>是对自由的最后让步吗
+<br>凝滞的介质
+<br>在失重的瞬间浸入
+<br>速率归零时，出定
+<br>坠落前后
+<br>进出虚空的准许
+<br>也被悄悄系上</h1>
+
+<h1>上山的最快路径
+<br>难道是沿这条彩色绳索
+<br>水凿扶手的天工
+<br>也把碎沙风化
+<br>填入轻刻的凹痕
+<br>轻轻拂去
+<br>就放得下一根指头</h1>
+
+<h1>树冠间跃迁的风险
+<br>直立行走的猿猴无需染指
+<br>悠久的攀爬之瘾
+<br>仍沿着双螺旋阶梯
+<br>走到今天的丛林
+<br>对景致的垂涎
+<br>也许是新的</h1>
+
+<h1>收回的目光也照在
+<br>花岗石的纹理
+<br>而触顶的渴望
+<br>进化论未曾预测
+<br>甚者，抵达前的回首
+<br>成了更艰难的命题</h1>
+
+<h1>也许只是暂时攀够了
+<br>便转身而去
+<br>在日落中下降
+<br>和着月光睡在岩石上
+<br>醒来时山还在那里</h1>
+
+<img src="images/pinecreek.jpg" width="500" alt="">
+	<a href="#" class="image featured"><img src="images/pinecreek.jpg" alt="" /></a>
+						</section>
+
+					<!-- Two 
+						<section class="wrapper style1 container special">
+							<div class="row">
+								<div class="col-4 col-12-narrower">
+
+									<section>
+										<header>
+											<h3>This is Something</h3>
+										</header>
+										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<footer>
+											<ul class="buttons">
+												<li><a href="#" class="button small">Learn More</a></li>
+											</ul>
+										</footer>
+									</section>
+
+								</div>
+								<div class="col-4 col-12-narrower">
+
+									<section>
+										<header>
+											<h3>Also Something</h3>
+										</header>
+										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<footer>
+											<ul class="buttons">
+												<li><a href="#" class="button small">Learn More</a></li>
+											</ul>
+										</footer>
+									</section>
+
+								</div>
+								<div class="col-4 col-12-narrower">
+
+									<section>
+										<header>
+											<h3>Probably Something</h3>
+										</header>
+										<p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+										<footer>
+											<ul class="buttons">
+												<li><a href="#" class="button small">Learn More</a></li>
+											</ul>
+										</footer>
+									</section>
+
+								</div>
+							</div>
+						</section>
+
+				</article>
+
+		
+			
+
+					<ul class="icons">
+						<li><a href="#" class="icon brands circle fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands circle fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands circle fa-google-plus-g"><span class="label">Google+</span></a></li>
+						<li><a href="#" class="icon brands circle fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands circle fa-dribbble"><span class="label">Dribbble</span></a></li>
+					</ul>-->
+ <footer id="footer">
+					<ul class="copyright">
+						<li>&copy; Untitled</li><li>砍钝</a></li>
+					</ul>
+
+				</footer>
+
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollgress.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

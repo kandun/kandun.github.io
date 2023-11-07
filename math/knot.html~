@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Knot homology reading group</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/mathmain.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header 
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+									</ul>
+								</header>-->
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header class="major">
+											<h2>Knot homology reading group<br />
+										</header>
+										<div class="contents">
+										<p> 2023 fall and 2024 winter, every Wednesday 4pm in E312 and <a href="https://uchicago.zoom.us/j/9135314190?pwd=djcyZHcxNjRRVk84NzNUTFpEYjFSdz09">Zoom</a>
+										<br>									Our main goal is to understand "Positroids, knots, and q,t-Catalan numbers" by Pavel Galashin, Thomas Lam.</p>
+										
+										</div>
+										<header>
+											<h3>References<br />
+										</header>
+										 Eugene Gorsky, Oscar Kivinen, José Simental: "Algebra and geometry of link homology: Lecture notes from the IHES 2021 Summer School"
+										<br>Soergel: "The combinatorics of Harish-Chandra bimodules"
+										<br>Allen Knutson, Thomas Lam, David Speyer: Positroid Varieties: Juggling and Geometry
+										
+								       
+									<span class="image object">
+										<img src="" alt="" />
+									</span>
+								</section>
+
+							<!-- Section -->
+								<section id="research">
+									
+																	<div class="content">
+				               
+							
+									
+									</div>
+									
+					
+									<section id="Schedule">
+										<header>
+											<h3>Schedule<br />
+									
+										</header>
+									<div class="contents">
+									
+									<p>Oct 18, Linus: braids, links and definition of KhR homology <a href="" >notes</a>
+									<br>Oct 25, Xinchun: computation of HHH(T(2,1)), Bott-Samelson bimoules/varieties. <a href="bottsamelson.pdf" >notes</a>, <a href="t21.pdf" >notes</a>
+									<br>Nov 1, Livia: postroid varieties, Richardson varieties and juggling <a href="" >notes</a>
+									<br>Nov 8, Yixuan:  <a href="" >notes</a>
+									<br>Nov 15, Thomas: <a href="" >notes</a>
+									<br>Nov 22, break
+									<br>Nov 29, ?
+									</p>
+									</div>
+								</section>
+
+	
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder=" " />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+									</header>
+									<ul>
+										<li><a href="./index.html">About</a></li>
+										<li><a href="./index.html">Research</a></li>
+											<li>
+											<span class="opener">Seminars</span>
+											<ul>
+												<li><a href="knot.html">Knot homology seminar</a></li>
+											</ul>
+										</li>
+										<li><a href="./index.html">Teaching</a></li>
+										<li><a href="./index.html">Miscellaneous</a></li>
+								</nav>
+
+							<!-- Section 
+								<section>
+									<header class="major">
+										<h2>Ante interdum</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">More</a></li>
+									</ul>
+								</section>
+
+							<!-- Section 
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
+										<li class="icon solid fa-phone">(000) 000-0000</li>
+										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
+										Nashville, TN 00000-0000</li>
+									</ul>
+								</section>-->
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy;  Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

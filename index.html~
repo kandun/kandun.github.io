@@ -41,7 +41,7 @@
 										</ul>-->
 									</li>
 								</ul>
-																					<li class=""><a href="math/math.html">数学</a></li>
+																					<li class=""><a href="math/index.html">数学</a></li>
 							</li>
 						<!--	<li><a href="#" class="button primary">Sign Up</a></li> --> 
 						</ul>
@@ -269,6 +269,77 @@
 										<img src="images/escalante.jpg" alt="" /></a>
 										<header>
 											<h3>Escalante</h3>
+										</header>
+					 											<br>
+									</section>
+
+								
+								</div>
+									<div class="col-6 col-12-narrower">
+								
+							
+									<section class="image featured">
+
+										<img src="images/kearsarge.heic" alt="" /></a>
+										<header>
+											<h3>Kearsarge</h3>
+										</header>
+					 											<br>
+									</section>
+
+								
+								</div>
+																	<div class="col-6 col-12-narrower">
+								
+							
+									<section class="image featured">
+
+										<img src="images/cloudylake.heic" alt="" /></a>
+										<header>
+											<h3>Cloudy lake</h3>
+										</header>
+					 											<br>
+									</section>
+
+								
+								</div>
+								
+								<div class="col-6 col-12-narrower">
+								
+							
+									<section class="image featured">
+
+										<img src="images/cloudypass.jpg" alt="" /></a>
+										<header>
+											<h3>Cloudy pass</h3>
+										</header>
+					 											<br>
+									</section>
+
+								
+								</div>
+								
+															<div class="col-6 col-12-narrower">
+								
+							
+									<section class="image featured">
+
+										<img src="images/forbiddennight.jpg" alt="" /></a>
+								
+					 											<br>
+									</section>
+
+								
+								</div>
+								
+															<div class="col-6 col-12-narrower">
+								
+							
+									<section class="image featured">
+
+										<img src="images/forbiddenmorning.heic" alt="" /></a>
+										<header>
+											<h3>Forbidden</h3>
 										</header>
 					 											<br>
 									</section>

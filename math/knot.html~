@@ -11,6 +11,15 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/mathmain.css" />
 	</head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4449CMETZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4449CMETZ');
+</script>
 	<body class="is-preload">
 
 		<!-- Wrapper -->
@@ -77,7 +86,7 @@
 									<br>Nov 1, Livia: positroid varieties, Richardson varieties and juggling. <a href="pdfs/positroid.pdf" >notes</a>
 									<br>Nov 8, Yixuan: mixed Hodge structures in Schubert cells and braid varieties. <a href="pdfs/mixedhodge.pdf" >notes</a>
 									<br>Nov 15, Yixuan: Hecke category. <a href="pdfs/heckecat.pdf" >notes</a>
-									<br>Nov 24, Yixuan: [Williamson-Webster] <a href="pdfs/ww.pdf" >notes</a>
+									<br>Nov 24, Yixuan: [Williamson-Webster] <a href="pdfs/williamsonwebster.pdf" >notes</a>
 									<br>Nov 29,  Thomas: preparation for P=W <a href="" >notes</a>
 									</p>
 									</div>

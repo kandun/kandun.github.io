@@ -14,6 +14,15 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4449CMETZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4449CMETZ');
+</script>
 	<body class="left-sidebar is-preload">
 		<div id="page-wrapper">
 
@@ -31,7 +40,7 @@
 									<li><a href="99.html">九十九年后</a></li>
 									<li><a href="waiting.html">等待</a></li>
 									<li><a href="ditch.html">沟壑</a></li>
-									<li><a href="contact.html"></a></li>
+									<li><a href="climb.html">攀</a></li>
 									<li class="submenu">
 								<!--		<a href="#">Submenu</a>
 										<ul>

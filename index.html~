@@ -22,6 +22,26 @@
   gtag('config', 'G-K4449CMETZ');
 </script>
 	<body class="index is-preload">
+				<script>
+function password() {
+    var testV = 1;
+    var pass1 = prompt('The answer to life, the universe, and everything', '');
+    while (testV < 3) {
+        if (!pass1) history.go(-1);
+        if (pass1 === "42") {
+            alert('yup');
+            break;
+        }
+        testV += -1;
+        pass1 = prompt('oops');
+    }
+    if (pass1 !== "42" && testV === 3) {
+        alert('oops');
+        history.go(-1);
+    }
+}
+password();
+</script>
 		<div id="page-wrapper">
 
 			<!-- Header -->
@@ -40,6 +60,8 @@
 									<li><a href="ditch.html">沟壑</a></li>
 									<li><a href="climb.html">攀</a></li>
 									<li><a href="watchingwater.html">看水</a></li>
+									<li><a href="winter.html">睡进冬天里</a></li>
+									<li><a href="newyear.html">过年</a></li>
 									<li class="submenu">
 								<!--		<a href="#">Submenu</a>
 										<ul>
@@ -51,7 +73,6 @@
 										</ul>-->
 									</li>
 								</ul>
-																					<li class=""><a href="math/index.html">数学</a></li>
 							</li>
 						<!--	<li><a href="#" class="button primary">Sign Up</a></li> --> 
 						</ul>

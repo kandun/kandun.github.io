@@ -52,12 +52,7 @@
 										</header>
 										<br>
 										<p>2023 fall and 2024 winter, every Wednesday 4pm in E312 and on <a href="https://uchicago.zoom.us/j/9135314190">Zoom</a> (to get password, contact <a href = "mailto: xm@math.uchicago.edu">Xinchun</a>).
-										<br>	Our main goal is to understand "Positroids, knots, and q,t-Catalan numbers" by Pavel Galashin, Thomas Lam.</p>
-										<p><h3>References:</h3>
-										 Eugene Gorsky, Oscar Kivinen, José Simental: "Algebra and geometry of link homology: Lecture notes from the IHES 2021 Summer School"
-										<br>Wolfgang Soergel: "The combinatorics of Harish-Chandra bimodules"
-										<br>Allen Knutson, Thomas Lam, David Speyer: "Positroid Varieties: Juggling and Geometry"
-										</p>
+										
 									</div>
 									<span class="image object">
 										<img src="images/figure8.jpg" alt="" />
@@ -68,7 +63,14 @@
 								<section id="research">
 									
 																	<div class="content">
-				               
+				               <p><h3>References:</h3>
+										 Eugene Gorsky, Oscar Kivinen, José Simental: "Algebra and geometry of link homology: Lecture notes from the IHES 2021 Summer School"
+										<br>Wolfgang Soergel: "The combinatorics of Harish-Chandra bimodules"
+										<br>Allen Knutson, Thomas Lam, David Speyer: "Positroid Varieties: Juggling and Geometry"
+										<br>Pavel Galashin, Thomas Lam: "Positroids, knots, and q,t-Catalan numbers"
+										<br>Davesh Maulik, Junliang Shen: "The P=W conjecture for  GL_n"
+										<br>Alexei Oblomkov, Zhiwei Yun: "The cohomology ring of certain compactified Jacobians"
+										</p>
 							
 									
 									</div>
@@ -87,7 +89,13 @@
 									<br>Nov 8, Yixuan: mixed Hodge structures in Schubert cells and braid varieties. <a href="pdfs/mixedhodge.pdf" >notes</a>
 									<br>Nov 15, Yixuan: Hecke category. <a href="pdfs/heckecat.pdf" >notes</a>
 									<br>Nov 24, Yixuan: [Williamson-Webster] <a href="pdfs/williamsonwebster.pdf" >notes</a>
-									<br>Nov 29,  Thomas: preparation for P=W <a href="" >notes</a>
+									<br>Nov 29,  Thomas: P=W - background  
+									<br>Dec 4,  Thomas: P=W - nearby/vanishing cycles 
+									<br>Dec 11,  Thomas: P=W -  global Springer theory 
+									<br>Dec 18,  Thomas: P=W - support theorem 
+									<br>Jan 10,  Thomas: P=W - concluding the proof <a href="pdfs/P=W1.pdf" >notes for all 5 talks</a>
+									<br>Jan 17,  Xinchun: rational Cherednik algebra and knot invariants <a href="pdfs/.pdf" >notes</a>
+									<br>Jan 19,  Xinchun: arc spaces and compactified Jacobians <a href="pdfs/.pdf" >notes</a>
 									</p>
 									</div>
 								</section>

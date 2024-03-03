@@ -10,7 +10,22 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/mathmain.css" />
+		<style>
+  #additional-content {
+    display: none;
+    margin-top: -50px;
+  }
+</style>
 	</head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K4449CMETZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K4449CMETZ');
+</script>
 	<body class="is-preload">
 
 		<!-- Wrapper -->
@@ -41,7 +56,7 @@
 										</header>
 										<br>
 										<p>I'm a fifth-year graduate student at UChicago under the supervision of Victor Ginzburg. I study geometric representation theory. 
-										In particular, I work on questions related to Cherednik algebras, character D-modules and knot homology. I have also been thinking about Elliptic Hitchin fibrations.
+										In particular, I work on questions related to Cherednik algebras, character D-modules and knot homology. 
 										<br>
 										<br>Email: xm@math.uchicago.edu
 										<br>
@@ -59,18 +74,41 @@
 									</header>
 																	<div class="content">
 				               
-									<p><em>Filtrations on the finite-dimensional representations of rational Cherednik algebra</em>, in preparation
+				               <p><em>Rational Cherednik algebras and torus knot invariants,</em> <a href="https://arxiv.org/abs/2402.18770">arxiv</a>, <a href="pdfs/filtrations.pdf">pdf</a>
 									<br><em>θ-triangle and ω-parallelogram pairs with common area and common perimeter</em> with Matilde Lalín,  Journal of Number Theory 202 (2019): 1-26. <a href="pdfs/geometriccongruent.pdf">pdf</a>
-									<br>
-									<br><b>Invited talks</b>
-									<br> April 2022, Algebra & Discrete Mathematics seminar, University of California, Davis
+									
+			<!--								<br><b>Invited talks</b>
+									<br> April 2024, special session on “Geometric Methods in Representation Theory” at the AMS Spring Central Sectional Meeting
+									<br> Jan 2024, Algebra & Discrete Mathematics seminar, University of California, Davis
+									<br> October 2023, algebra and algebraic geometry seminar, University of Wisconsin-Madison
+									<br> September 2023, AWM Research Symposium special session, Atlanta	
 									<br> August 2022, QUACK II, University of Oregon
-									<br> September 2023, AWM Research Symposium special session, Atlanta
-									<br> October 2023, algebra and algebraic geometry seminar, University of Wisconsin-Madison</p>
-									
+									<br> April 2022, Algebra & Discrete Mathematics seminar, University of California, Davis
 									</div>
-									
+								
 								</section>
+							<br><a href="#" id="see-more-link">More</a>
+<div id="additional-content">
+
+</div>
+
+<script>
+  // JavaScript to toggle visibility of additional content
+  document.getElementById('see-more-link').addEventListener('click', function(event) {
+    event.preventDefault(); // Prevent default link behavior (scrolling to top)
+
+    var additionalContent = document.getElementById('additional-content');
+
+    if (additionalContent.style.display === 'none') {
+      additionalContent.style.display = 'block';
+      this.textContent = 'Less'; // Change link text
+    } else {
+      additionalContent.style.display = 'none';
+      this.textContent = 'More'; // Change link text
+    }
+  });
+</script>
+
 
 							<!-- Section -->
 									<section id="teaching">

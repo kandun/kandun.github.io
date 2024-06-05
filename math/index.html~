@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Xinchun Ma</title>
+		<title>Xinchun Ma｜马欣纯</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/mathmain.css" />
@@ -51,8 +51,8 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h3>Xinchun Ma<br />
-									
+											<h3> Xinchun Ma｜马欣纯<br />
+										<!--	<h3> 马欣纯<br />-->
 										</header>
 										<br>
 										<p>I'm a fifth-year graduate student at UChicago under the supervision of Victor Ginzburg. I study geometric representation theory. 
@@ -73,21 +73,24 @@
 										<h2>Research</h2>
 									</header>
 																	<div class="content">
-				               				         		<!--       <em>Rational Cherednik algebras and torus knot invariants II: cuspidal mirabolic D-modules, </em> in preparation
-				               <br>--><em><p>Rational Cherednik algebras and torus knot invariants,</em> <a href="https://arxiv.org/abs/2402.18770">arxiv</a>, <a href="pdfs/filtrations.pdf">pdf</a>
+				               				        		<!--       <em>From Rational Cherednik algebras to torus knot homology via cuspidal mirabolic D-modules, </em> in preparation
+				               <br>--><p> <em>Rational Cherednik algebras and torus knot invariants,</em> <a href="https://arxiv.org/abs/2402.18770">arxiv</a>, <a href="pdfs/filtrations.pdf">pdf</a>
 									<br><em>θ-triangle and ω-parallelogram pairs with common area and common perimeter</em> with Matilde Lalín,  Journal of Number Theory 202 (2019): 1-26. <a href="pdfs/geometriccongruent.pdf">pdf</a>
 									</div>
 								
-								</section>
-			<!--								<br><b>Invited talks</b>
-									<br> April 2024, special session on “Geometric Methods in Representation Theory” at the AMS Spring Central Sectional Meeting
+							
+									<br><b>Talks and presentations:</b>
+									<br> August 2024, seminar, Montana State Univeristy, 
+									<br> June 2024, <a href="pdfs/poster_UNAM.pdf">Poster</a> at VI Canada-Mexico-US Meeting, Universidad Nacional Autónoma de México
+									<br> May 2024, contributed presentation at Representation Theory and Related Geometry: Progress and Prospects, University of Georgia
+									<br> April 2024, special session on “Geometric Methods in Representation Theory”, AMS Spring Central Sectional Meeting
 									<br> Jan 2024, Algebra & Discrete Mathematics seminar, University of California, Davis
 									<br> October 2023, algebra and algebraic geometry seminar, University of Wisconsin-Madison
 									<br> September 2023, AWM Research Symposium special session, Atlanta	
-									<br> August 2022, QUACK II, University of Oregon
+									<br> August 2022, QUAntum groups, Categorification, Knot invariants, and Soergel bimodules (QUACK) II, University of Oregon
 									<br> April 2022, Algebra & Discrete Mathematics seminar, University of California, Davis
-									
-							<br><a href="#" id="see-more-link">More</a>
+									</section>
+					<!--				<br><a href="#" id="see-more-link">More</a>
 <div id="additional-content">
 
 </div>
@@ -122,9 +125,17 @@
 <br>Math 151-152, Calculus I-II, 2022-23
 <br>Math 131, 132, 153, Calculus I-III	, 2021-22
 <br>
-<br><b>Teaching Assistant</b>
+<br><b>Teaching Assistant:</b>
 <br> Linear algebra, Intro to Differentiable Manifolds and Integration on Manifolds, 
-Intro to Riemannian Geometry, 2020-21</p>
+Intro to Riemannian Geometry, 2020-21
+<br>
+<br><b>Mentoring:</b>
+<br>UChicago REU mentor: Summer 2020 (Helena Perez-Stark, Ryan Wandsnider), 2021(Sydney Bergen, Drew Melman-Rogers, Sean Ryan)
+<br>UChicago DRP mentor: Winter 2021 (Helena Perez-Stark), pring 2022 (Jen Tang), Winter 2023 (Daohong Xu), Spring 2024 (Jake Zummo)</p>
+	<!-- <br>Winter 2021 (Helena Perez-Stark: differential forms), 
+<br>Spring 2022 (Jen Tang: cohomology of S^n), 
+<br>Winter 2023 (Daohong Xu: p-adic numbers),
+<br>Spring 2024 (Jake Zummo: prime spectrums)-->
 
 									</div>
 								</section>

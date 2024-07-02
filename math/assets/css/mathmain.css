@@ -995,7 +995,7 @@ header p {
   font-weight: 400;
   letter-spacing: 0.075em;
   margin-top: -0.5em;
-  text-transform: uppercase; }
+  text-transform: none; }
 
 header.major > :last-child {
   border-bottom: solid 3px #f56a6a;
@@ -1119,7 +1119,7 @@ input[type="radio"] {
       font-variant: normal;
       text-rendering: auto;
       line-height: 1;
-      text-transform: none !important;
+      text-transform: none;
       font-family: 'Font Awesome 5 Free';
       font-weight: 900; }
     input[type="checkbox"] + label:before,
@@ -1198,7 +1198,7 @@ input[type="radio"] + label:before {
     font-variant: normal;
     text-rendering: auto;
     line-height: 1;
-    text-transform: none !important;
+    text-transform: none;
     font-family: 'Font Awesome 5 Free';
     font-weight: 400; }
   .icon > .label {
@@ -1372,7 +1372,7 @@ ul.contact {
       font-variant: normal;
       text-rendering: auto;
       line-height: 1;
-      text-transform: none !important;
+      text-transform: none;
       font-family: 'Font Awesome 5 Free';
       font-weight: 400; }
     ul.contact li:before {
@@ -1508,7 +1508,7 @@ button,
   padding: 0 2.25em;
   text-align: center;
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: none;
   white-space: nowrap; }
   input[type="submit"]:hover,
   input[type="reset"]:hover,
@@ -1891,7 +1891,7 @@ button,
     font-variant: normal;
     text-rendering: auto;
     line-height: 1;
-    text-transform: none !important;
+    text-transform: none;
     font-family: 'Font Awesome 5 Free';
     font-weight: 900; }
   #search form:before {
@@ -1983,7 +1983,7 @@ button,
       font-variant: normal;
       text-rendering: auto;
       line-height: 1;
-      text-transform: none !important;
+      text-transform: none;
       font-family: 'Font Awesome 5 Free';
       font-weight: 900; }
     #sidebar .toggle:before {
@@ -2205,7 +2205,7 @@ button,
   list-style: none;
   margin-bottom: 0;
   padding: 0;
-  text-transform: uppercase; }
+  text-transform: none; }
   #menu ul a, #menu ul span {
     border-bottom: 0;
     color: inherit;
@@ -2231,7 +2231,7 @@ button,
         font-variant: normal;
         text-rendering: auto;
         line-height: 1;
-        text-transform: none !important;
+        text-transform: none;
         font-family: 'Font Awesome 5 Free';
         font-weight: 900; }
       #menu ul a.opener:before, #menu ul span.opener:before {

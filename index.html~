@@ -21,7 +21,7 @@
 
   gtag('config', 'G-K4449CMETZ');
 </script>
-	<body class="index is-preload">
+	<body class="left-sidebar is-preload">
 	<!--			<script>
 	function password() {
     var testV = 1;
@@ -61,6 +61,7 @@ password();
 									<li><a href="watchingwater.html">看水</a></li>
 									<li><a href="winter.html">睡进冬天里</a></li>
 									<li><a href="newyear.html">过年</a></li>
+									<li><a href="to-be.html">想成为的人</a></li>
 																</ul>
 									</li>
 									<li><a href="math/index.html">数学</a></li>
@@ -197,7 +198,7 @@ password();
 							<header class="major">
 
 
-<audio controls>
+<audio controls autoplay>
         <source src="salmon.mp3" type="audio/mpeg">
     </audio>
 							</header>

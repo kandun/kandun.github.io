@@ -44,6 +44,7 @@
 									<li><a href="watchingwater.html">看水</a></li>
 									<li><a href="winter.html">睡进冬天里</a></li>
 									<li><a href="newyear.html">过年</a></li>
+									<li><a href="to-be.html">想成为的人</a></li>
 									<li class="submenu">
 								<!--		<a href="#">Submenu</a>
 										<ul>
@@ -180,7 +181,7 @@
 						<li><a href="#" class="icon brands circle fa-google-plus-g"><span class="label">Google+</span></a></li>
 						<li><a href="#" class="icon brands circle fa-github"><span class="label">Github</span></a></li>
 						<li><a href="#" class="icon brands circle fa-dribbble"><span class="label">Dribbble</span></a></li>
-					</ul>-->
+					</ul>
  <footer id="footer">
 					<ul class="copyright">
 						<li>&copy; Untitled</li><li>砍钝</a></li>

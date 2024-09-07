@@ -61,10 +61,10 @@ password();
 									<li><a href="watchingwater.html">看水</a></li>
 									<li><a href="winter.html">睡进冬天里</a></li>
 									<li><a href="newyear.html">过年</a></li>
-									<li><a href="to-be.html">想成为的人</a></li>
+									<li><a href="supermoon.html">超级月亮</a></li>
+							<!--			<li><a href="to-be.html">想成为的人</a></li>-->
 																</ul>
 									</li>
-									<li><a href="math/index.html">数学</a></li>
 								<!--		<a href="#">Submenu</a>
 										<ul>
 											<li><a href="#">Dolore Sed</a></li>
@@ -198,13 +198,36 @@ password();
 							<header class="major">
 
 
-<audio controls autoplay>
+<audio controls>
         <source src="salmon.mp3" type="audio/mpeg">
     </audio>
 							</header>
 
 						<!--	<div class="row">-->
-														<div class="col-6 col-12-narrower">
+
+										<div class="col-6 col-12-narrower">
+
+
+	<section class="image featured">
+										<img src="images/darwin.jpg" alt="" /></a>
+									<h3>22° halo above Darwin canyon</h3>
+					 											<br>
+									</section>
+
+								</div>
+								
+												<div class="col-6 col-12-narrower">
+
+
+	<section class="image featured">
+										<img src="images/lamarck.jpg" alt="" /></a>
+									<h3>Lamarck</h3>
+					 											<br>
+									</section>
+
+								</div>
+								
+																						<div class="col-6 col-12-narrower">
 
 									<section class="image featured">
 
@@ -216,7 +239,6 @@ password();
 									</section>
 
 								</div>
-						
 								<div class="col-6 col-12-narrower">
 
 
@@ -227,6 +249,7 @@ password();
 									</section>
 
 								</div>
+								
 								<div class="col-6 col-12-narrower">
 								
 								
@@ -244,7 +267,7 @@ password();
 
 										<img src="images/pic01.jpg" alt="" /></a>
 										<header>
-											<h3>Canyonlands</h3>
+											<h3>Lost canyon</h3>
 										</header>
 					 											<br>
 									</section>

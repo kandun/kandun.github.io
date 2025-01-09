@@ -64,6 +64,7 @@ password();
 									<li><a href="supermoon.html">超级月亮</a></li>
 									<li><a href="ocean.html">海洋</a></li>
 								   <li><a href="reunion.html">重逢</a></li>
+								   <li><a href="zen.html">禅还是反禅</a></li>
 							<!--			<li><a href="to-be.html">想成为的人</a></li>-->
 																</ul>
 									</li>
@@ -200,6 +201,7 @@ password();
 							<header class="major">
 
 
+
 <audio controls>
         <source src="salmon.mp3" type="audio/mpeg">
     </audio>
@@ -234,7 +236,16 @@ password();
 <div class="col-6 col-12-narrower">
 
 	<section class="image featured">
+									
 										<img src="images/starbird.jpg" alt="" /></a>
+					 											<br>
+									</section>
+
+								</div>
+<div class="col-6 col-12-narrower">
+
+	<section class="image featured">
+									
 										<img src="images/starbird2.jpg" alt="" /></a>
 									<h3>Starbird</h3>
 					 											<br>

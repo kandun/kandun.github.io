@@ -44,6 +44,7 @@
 									<li><a href="watchingwater.html">看水</a></li>
 									<li><a href="winter.html">睡进冬天里</a></li>
 									<li><a href="newyear.html">过年</a></li>
+									<li><a href="to-be.html">想成为的人</a></li>
 									<li class="submenu">
 								<!--		<a href="#">Submenu</a>
 										<ul>
@@ -72,7 +73,7 @@
 
 					<!-- One -->
 						<section class="wrapper style4 container">
-
+<iframe src="music-player.html" name="music-frame" style="border: none; width: 0; height: 0;" hidden></iframe>
 <h4>攀</h4>
 
 <h1>夹在石与骨之间
